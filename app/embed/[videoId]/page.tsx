@@ -2,10 +2,10 @@ import { Metadata } from 'next'
 
 // Piped instances for embedding
 const PIPED_INSTANCES = [
-  'https://piped.video',
-  'https://piped.kavin.rocks',
-  'https://piped.r4fo.com',
-  'https://piped.privacydev.net',
+  'https://proxyvideo.vercel.app/www.youtube-nocookie.com/embed/',
+  'https://www.youtube-nocookie.com/embed/',
+  'https://secure-272717.vercel.app/www.youtube-nocookie.com/embed/',
+  'https://secure-272717.tatnet.app/www.youtube-nocookie.com/embed/',
 ]
 
 interface Props {
